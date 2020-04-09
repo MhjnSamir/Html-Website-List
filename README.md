@@ -9,4 +9,4 @@
   a.https://maharjansamir.000webhostapp.com/soloweb/
   
 3.React Timeline Template
- https://nostalgic-rosalind-86143c.netlify.com
+ https://reactimeline.netlify.com/
