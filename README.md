@@ -11,5 +11,4 @@
 3.React Timeline Template
  https://reactimeline.netlify.com/
 
-4.React Project
-  https://contactlists.netlify.com/
+
