@@ -12,6 +12,6 @@
   https://reactimeline.netlify.com/
  
 4.js Practice
-  https://tweetslist.netlify.app/
-  https://playquiz.netlify.app/
+  a. https://tweetslist.netlify.app/
+  b. https://playquiz.netlify.app/
 
