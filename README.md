@@ -9,9 +9,9 @@
   a.https://maharjansamir.000webhostapp.com/soloweb/
   
 3.React Timeline Template
- https://reactimeline.netlify.com/
+  https://reactimeline.netlify.com/
  
-4. js Practice
-
-https://tweetslist.netlify.app/
+4.js Practice
+  https://tweetslist.netlify.app/
+  https://playquiz.netlify.app/
 
