@@ -6,7 +6,7 @@
   
   
 2.Single Page website 
-  a.https://maharjansamir.000webhostapp.com/soloweb/
+  a.https://digitalnagency.netlify.app/
   
 3.React Timeline Template
   https://reactimeline.netlify.com/
