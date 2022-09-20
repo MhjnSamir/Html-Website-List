@@ -1,8 +1,7 @@
 # Website-List
 
 1.Flexbox sites 
-  a.http://cssflexbox.000webhostapp.com/drivesafe/
-  b.https://takeinsure.netlify.app/
+  a.https://takeinsure.netlify.app/
   
   
 2.Single Page website 
